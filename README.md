@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbosit1215&label=Profile%20views&color=3e099f&style=flat-square" alt="abdulbosit1215" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbosit1215" alt="abdulbosit1215" /></a> </p>
+
 
 <p align="left">
 </p>
